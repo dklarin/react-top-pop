@@ -7,3 +7,6 @@
 
 ### Top-pop app image
 ![top pop app image](https://github.com/dklarin/top-pop/blob/main/images/top_pop_app.png)
+
+### Song selected
+![song selected image](https://github.com/dklarin/top-pop/blob/main/images/song_selected.png)

@@ -5,4 +5,5 @@
 * cd top-pop-client: yarn install
 * cd cors-anywhere: yarn install
 
-![alt text for screen readers](https://github.com/dklarin/top-pop/blob/main/images/top_pop_app.png)
+### Top-pop app image
+![top pop app image](https://github.com/dklarin/top-pop/blob/main/images/top_pop_app.png)

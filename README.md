@@ -6,7 +6,7 @@
 * cd cors-anywhere: yarn install
 
 ### Top-pop app image
-![top pop app image](https://github.com/dklarin/top-pop/blob/main/images/top_pop_app.png)
+![top pop app image](https://github.com/dklarin/react-top-pop/blob/main/images/top_pop_app.png)
 
 ### Song selected
-![song selected image](https://github.com/dklarin/top-pop/blob/main/images/song_selected.png)
+![song selected image](https://github.com/dklarin/react-top-pop/blob/main/images/song_selected.png)
